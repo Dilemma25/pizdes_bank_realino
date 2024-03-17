@@ -1,0 +1,7 @@
+Transaction_ID: 20576121986900 Sender_ID: - Sender_Name: Bank Recipient_ID: 11395481 Recipient_Name: danil Amount: 200 Date: 2023-12-10 20:56:01
+Transaction_ID: 20576334762250 Sender_ID: - Sender_Name: Bank Recipient_ID: 11395481 Recipient_Name: danil Amount: 300 Date: 2023-12-10 20:56:03
+Transaction_ID: 20577670300410 Sender_ID: 11395481 Sender_Name: danil Recipient_ID: 11395586 Recipient_Name: irina Amount: 126 Date: 2023-12-10 20:56:16
+Transaction_ID: 20577916948860 Sender_ID: - Sender_Name: Bank Recipient_ID: 11395481 Recipient_Name: danil Amount: 90 Date: 2023-12-10 20:56:19Transaction_ID: 82956201517340 Sender_ID: - Sender_Name: Bank Recipient_ID: 34344247 Recipient_Name: testTwo Amount: 10000 Date: 2024-01-09 22:46:02
+Transaction_ID: 82962471802970 Sender_ID: 34344116 Sender_Name: testOne Recipient_ID: 34344247 Recipient_Name: testTwo Amount: 3000 Date: 2024-01-09 22:47:04
+Transaction_ID: 82964050678360 Sender_ID: 34344116 Sender_Name: testOne Recipient_ID: 34344247 Recipient_Name: testTwo Amount: 300 Date: 2024-01-09 22:47:20
+Transaction_ID: 84481098166640 Sender_ID: - Sender_Name: Bank Recipient_ID: 34344116 Recipient_Name: testOne Amount: 10000 Date: 2024-01-10 03:00:10
